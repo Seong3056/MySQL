@@ -74,6 +74,7 @@ ON e.job_id = j.job_id
 WHERE job_title IN ('Stock Manager','Stock Clerk');
 --WHERE j.job_title = 'Stock Manager'
 --OR j.job_title = 'Stock Clerk';
+
 --문제 9.
 -- departments 테이블에서 직원이 없는 부서를 찾아 출력하세요. LEFT OUTER JOIN 사용
 SELECT d.department_name
