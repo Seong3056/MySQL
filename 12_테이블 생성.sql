@@ -9,7 +9,7 @@
 - DATE -> BC 4712년 1월 1일 ~ AD 9999년 12월 31일 까지 지정가능
 - 시, 분, 초 지원
 */
-CREATE TABLE dept2(
+CREATE TABLE dept12(
 	dept_no NUMBER(2),
 	dept_name VARCHAR2(14),
 	loca VARCHAR2(15),
