@@ -94,6 +94,3 @@ SELECT * FROM board;
 
 
 
-
-
-
